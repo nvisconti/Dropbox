@@ -20,9 +20,9 @@ After creating the account, user can view the placeholders for Files, Photos, an
 * [x] User can log out from the Settings screen.
 
 Optional/in-progress user stories:
-* [ ]Optional: Add a detail view for one of the files and implement favoriting the file.
-* [ ]Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
-* [ ]Optional: You should be able to swipe through the welcome screens instead of just tapping them.
+* [ ] Optional: Add a detail view for one of the files and implement favoriting the file.
+* [ ] Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
+* [ ] Optional: You should be able to swipe through the welcome screens instead of just tapping them.
  
 
 
