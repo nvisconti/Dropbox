@@ -28,7 +28,7 @@ Optional/in-progress user stories:
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](dropbox.gif)
+![Video Walkthrough](dropbox](https://cloud.githubusercontent.com/assets/7990734/10009845/62a417f8-6097-11e5-86f0-d6487a9387a4.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
