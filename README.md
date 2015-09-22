@@ -24,8 +24,6 @@ Optional/in-progress user stories:
 * [ ]Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
 * [ ]Optional: You should be able to swipe through the welcome screens instead of just tapping them.
  
-Notes:
-
 
 
 Walkthrough of all user stories:
