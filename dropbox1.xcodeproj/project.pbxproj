@@ -7,11 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		69495E0D1BAD367600D4CC04 /* CreateAccountRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69495E0C1BAD367600D4CC04 /* CreateAccountRootViewController.swift */; };
+		69495E0F1BAD371200D4CC04 /* SignedInRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69495E0E1BAD371200D4CC04 /* SignedInRootViewController.swift */; };
+		69495E111BAD523C00D4CC04 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69495E101BAD523C00D4CC04 /* CreateAccountViewController.swift */; };
+		69495E131BAD526500D4CC04 /* SignedInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69495E121BAD526500D4CC04 /* SignedInViewController.swift */; };
+		69495E171BAF779500D4CC04 /* tosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69495E161BAF779500D4CC04 /* tosViewController.swift */; };
+		69495E191BAF7AE400D4CC04 /* tosMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69495E181BAF7AE400D4CC04 /* tosMainViewController.swift */; };
+		69495E1B1BAF864F00D4CC04 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69495E1A1BAF864F00D4CC04 /* SettingsViewController.swift */; };
+		69495E1D1BAFDA0500D4CC04 /* photoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69495E1C1BAFDA0500D4CC04 /* photoViewController.swift */; };
 		69FD99BB1BABA1D20013B1CE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FD99BA1BABA1D20013B1CE /* AppDelegate.swift */; };
 		69FD99BD1BABA1D20013B1CE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FD99BC1BABA1D20013B1CE /* ViewController.swift */; };
 		69FD99C01BABA1D20013B1CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69FD99BE1BABA1D20013B1CE /* Main.storyboard */; };
 		69FD99C21BABA1D20013B1CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69FD99C11BABA1D20013B1CE /* Assets.xcassets */; };
-		69FD99C51BABA1D20013B1CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69FD99C31BABA1D20013B1CE /* LaunchScreen.storyboard */; };
 		69FD99D01BABA1D20013B1CE /* dropbox1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FD99CF1BABA1D20013B1CE /* dropbox1Tests.swift */; };
 		69FD99DB1BABA1D20013B1CE /* dropbox1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FD99DA1BABA1D20013B1CE /* dropbox1UITests.swift */; };
 /* End PBXBuildFile section */
@@ -34,12 +41,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		69495E0C1BAD367600D4CC04 /* CreateAccountRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountRootViewController.swift; sourceTree = "<group>"; };
+		69495E0E1BAD371200D4CC04 /* SignedInRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignedInRootViewController.swift; sourceTree = "<group>"; };
+		69495E101BAD523C00D4CC04 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
+		69495E121BAD526500D4CC04 /* SignedInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignedInViewController.swift; sourceTree = "<group>"; };
+		69495E161BAF779500D4CC04 /* tosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tosViewController.swift; sourceTree = "<group>"; };
+		69495E181BAF7AE400D4CC04 /* tosMainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tosMainViewController.swift; sourceTree = "<group>"; };
+		69495E1A1BAF864F00D4CC04 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		69495E1C1BAFDA0500D4CC04 /* photoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = photoViewController.swift; sourceTree = "<group>"; };
 		69FD99B71BABA1D20013B1CE /* dropbox1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dropbox1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		69FD99BA1BABA1D20013B1CE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		69FD99BC1BABA1D20013B1CE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		69FD99BF1BABA1D20013B1CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		69FD99C11BABA1D20013B1CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		69FD99C41BABA1D20013B1CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		69FD99C61BABA1D20013B1CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		69FD99CB1BABA1D20013B1CE /* dropbox1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dropbox1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		69FD99CF1BABA1D20013B1CE /* dropbox1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dropbox1Tests.swift; sourceTree = "<group>"; };
@@ -97,11 +111,18 @@
 		69FD99B91BABA1D20013B1CE /* dropbox1 */ = {
 			isa = PBXGroup;
 			children = (
+				69495E161BAF779500D4CC04 /* tosViewController.swift */,
 				69FD99BA1BABA1D20013B1CE /* AppDelegate.swift */,
 				69FD99BC1BABA1D20013B1CE /* ViewController.swift */,
 				69FD99BE1BABA1D20013B1CE /* Main.storyboard */,
+				69495E181BAF7AE400D4CC04 /* tosMainViewController.swift */,
+				69495E1C1BAFDA0500D4CC04 /* photoViewController.swift */,
+				69495E1A1BAF864F00D4CC04 /* SettingsViewController.swift */,
+				69495E101BAD523C00D4CC04 /* CreateAccountViewController.swift */,
+				69495E121BAD526500D4CC04 /* SignedInViewController.swift */,
+				69495E0E1BAD371200D4CC04 /* SignedInRootViewController.swift */,
+				69495E0C1BAD367600D4CC04 /* CreateAccountRootViewController.swift */,
 				69FD99C11BABA1D20013B1CE /* Assets.xcassets */,
-				69FD99C31BABA1D20013B1CE /* LaunchScreen.storyboard */,
 				69FD99C61BABA1D20013B1CE /* Info.plist */,
 			);
 			path = dropbox1;
@@ -228,7 +249,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				69FD99C51BABA1D20013B1CE /* LaunchScreen.storyboard in Resources */,
 				69FD99C21BABA1D20013B1CE /* Assets.xcassets in Resources */,
 				69FD99C01BABA1D20013B1CE /* Main.storyboard in Resources */,
 			);
@@ -255,8 +275,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69495E191BAF7AE400D4CC04 /* tosMainViewController.swift in Sources */,
+				69495E111BAD523C00D4CC04 /* CreateAccountViewController.swift in Sources */,
+				69495E171BAF779500D4CC04 /* tosViewController.swift in Sources */,
+				69495E131BAD526500D4CC04 /* SignedInViewController.swift in Sources */,
+				69495E0D1BAD367600D4CC04 /* CreateAccountRootViewController.swift in Sources */,
+				69495E1D1BAFDA0500D4CC04 /* photoViewController.swift in Sources */,
 				69FD99BD1BABA1D20013B1CE /* ViewController.swift in Sources */,
 				69FD99BB1BABA1D20013B1CE /* AppDelegate.swift in Sources */,
+				69495E0F1BAD371200D4CC04 /* SignedInRootViewController.swift in Sources */,
+				69495E1B1BAF864F00D4CC04 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,14 +326,6 @@
 				69FD99BF1BABA1D20013B1CE /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		69FD99C31BABA1D20013B1CE /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				69FD99C41BABA1D20013B1CE /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -396,6 +416,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = dropbox1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = visconti.dropbox1;
@@ -407,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = dropbox1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = visconti.dropbox1;
@@ -481,6 +503,7 @@
 				69FD99E11BABA1D20013B1CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		69FD99E21BABA1D20013B1CE /* Build configuration list for PBXNativeTarget "dropbox1Tests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +512,7 @@
 				69FD99E41BABA1D20013B1CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		69FD99E51BABA1D20013B1CE /* Build configuration list for PBXNativeTarget "dropbox1UITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +521,7 @@
 				69FD99E71BABA1D20013B1CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
