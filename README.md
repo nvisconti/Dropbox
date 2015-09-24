@@ -17,18 +17,8 @@ Completed user stories:
 * [x] User can follow the create user flow.
 * [x] On the create user form, the user can tap the back button to go to the page where they can sign in or create an account.
 * [x] Before creating the account, user can choose to read the terms of service.
-After creating the account, user can view the placeholders for Files, Photos, and Favorites as well as the Settings screen.
-<<<<<<< Updated upstream
-* [x] User can log out from the Settings screen.
-* [x] User can follow the sign in flow.
-* [x] User can tap the area for "Having trouble signing in?"
-* [x] User can log out from the Settings screen.
+* [x] After creating the account, user can view the placeholders for Files, Photos, and Favorites as well as the Settings screen.
 
-Optional/in-progress user stories:
-* [ ] Optional: Add a detail view for one of the files and implement favoriting the file.
-* [ ] Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
-* [ ] Optional: You should be able to swipe through the welcome screens instead of just tapping them.
- 
 =======
 * [x]User can log out from the Settings screen.
 * [x]User can follow the sign in flow.
@@ -42,16 +32,11 @@ Optional/in-progress user stories:
  
 Notes:
 
->>>>>>> Stashed changes
-
 
 Walkthrough of all user stories:
 
-<<<<<<< Updated upstream
-![Video Walkthrough](https://cloud.githubusercontent.com/assets/7990734/10009845/62a417f8-6097-11e5-86f0-d6487a9387a4.gif)
 =======
 ![Video Walkthrough](dropbox.gif)
->>>>>>> Stashed changes
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
